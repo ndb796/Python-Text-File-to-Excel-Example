@@ -2,5 +2,5 @@
 ```
 git clone https://github.com/ndb796/Python-Text-File-to-Excel-Example
 cd Python-Text-File-to-Excel-Example
-python3 Source Code Excel.py
+python3 "Source Code Excel.py"
 ```
